@@ -6,7 +6,7 @@ Currently, Blockchain Development student at George Brown College, Toronto and S
 - 🌱 I’m currently learning SSI/Verfialble Crednetial, Sovrin(HyperLedger Indy) and Aries Cloud Agent-Py.
 - 👯 I’m looking to collaborate on SSI/VC based projects or Aviation/Blockchain integration.
 - 📫 How to reach me: https://www.linkedin.com/in/cherukkattil-naseer-3526201a/
-- ⚡ Fun fact: Enjoy Flying Drones!
+- ⚡ Fun fact: love to participate in a drone racing league!
 
 <!--
 **Nas2020/Nas2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
