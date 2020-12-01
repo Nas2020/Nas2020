@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Nas 
-Currently, Blockchain Development student at George Brown College, Toronto and Software Developer -Intern @ Convergence.Tech(Trybe.Id). I have thirteen years of Aerospace background as Avionics Specialist. Recently, started working on SSI/Verfiable credential related projects. Profesional experience on reactJS, nodeJS, materialUI, OpenCert from GovTechSg and Sovrin. Academic experience on Ethereum, HyperLedger Fabric and Solidity programming. Hard-working and self motivated team player.
+Currently, Blockchain Development student at George Brown College, Toronto and Blockchain Developer -Intern @ northernblock.ca. I have thirteen years of Aerospace background as Avionics Specialist. Recently, started working on SSI/Verfiable credential related projects. Profesional experience on reactJS, nodeJS, materialUI, OpenCert from GovTechSg and Sovrin. Academic experience on Ethereum, HyperLedger Fabric and Solidity programming. Hard-working and self motivated team player.
 
 
 - 🔭 I’m currently working on Capstone project - Vreifiable Credential for Aviation Parts
