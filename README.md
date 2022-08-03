@@ -1,5 +1,7 @@
 ### Hi there 👋 I am Nas 
-Currently, Working with canacred team to develop SSI Wallet. Graduated Blockchain Development program with honors from George Brown College, Toronto. Previously, worked as software developer intern @ convergence.tech and  Blockchain Developer -Intern @ northernblock.ca. Profesional experience on reactJS, nodeJS, materialUI, OpenCert from GovTechSg and Sovrin. Academic experience on Ethereum, HyperLedger Fabric and Solidity programming. Hard-working and self motivated team player.
+Currently, working on SSI based verifier app for veriDID, Toronto,
+
+Working with canacred team to develop SSI Wallet. Graduated Blockchain Development program with honors from George Brown College, Toronto. Previously, worked as software developer intern @ convergence.tech and  Blockchain Developer -Intern @ northernblock.ca. Profesional experience on reactJS, nodeJS, materialUI, OpenCert from GovTechSg and Sovrin. Academic experience on Ethereum, HyperLedger Fabric and Solidity programming. Hard-working and self motivated team player.
 
 
 - 🌱 I’m currently invovled in projects related to SSI/Verfialble Crednetial, Sovrin(HyperLedger Indy) and Aries Cloud Agent-Py.
