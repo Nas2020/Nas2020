@@ -6,7 +6,7 @@ I hold an honors degree in Blockchain Development from George Brown College, Tor
 
 - 🌱 Currently, I'm deeply engaged in projects involving SSI/Verifiable Credential, Sovrin (Hyperledger Indy), and Aries Cloud Agent-Py.
 - 👯 'm open to collaborations on projects focused on SSI/VC, or the integration of Aviation and Blockchain.
-- 📫 Connect with me on LinkedIn: https://www.linkedin.com/in/nas-c-3526201a/
+- 📫 Connect with me on LinkedIn: https://www.linkedin.com/in/nas-c-3526201a/ or shoot me an email at nas@verid.id.
 
 <!--
 **Nas2020/Nas2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
