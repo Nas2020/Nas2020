@@ -1,12 +1,32 @@
-### Hi there 👋 I am Nas 
+### 🚀 DevOps Engineer | Cybersecurity | Full Stack Developer | SSI  | Blockchain 
 
-A DevOps Engineer currently enhancing the world of SSI with VeriDID Corp, Canada. Leveraging the power of AWS, Kubernetes, and Terraform, I'm building robust, scalable, and secure cloud infrastructures. I use my programming prowess in Python and TypeScript to automate and monitor systems efficiently.
 
-I hold an honors degree in Blockchain Development from George Brown College, Toronto, and have previously interned as a software developer at convergence.tech and northernblock.ca. I'm proficient in using reactJS, nodeJS, materialUI, and have academic experience in Ethereum, Hyperledger Fabric, and Solidity programming.
+Hi there! I'm Nas, currently spearheading initiatives in the world of Self-Sovereign Identity (SSI) at VeriDID Corp, Canada. My forte is constructing robust, scalable, and ironclad cloud infrastructures. How? By synergizing the capabilities of AWS, Kubernetes, Pulumi, and Terraform. My code game? Strong in TypeScript which empowers me to automate and surveil systems effectively.
 
-- 🌱 Currently, I'm deeply engaged in projects involving SSI/Verifiable Credential, Sovrin (Hyperledger Indy), and Aries Cloud Agent-Py.
-- 👯 'm open to collaborations on projects focused on SSI/VC, or the integration of Aviation and Blockchain.
-- 📫 Connect with me on LinkedIn: https://www.linkedin.com/in/nas-c-3526201a/ or shoot me an email at nas@verid.id.
+#### 🎓 Education & Credentials:
+Honors degree in Blockchain Development from George Brown College, Toronto.
+Certified in Cybersecurity (CC) from ISC².
+Certified Hyperledger Aries Developer by Linux Foundation.
+
+#### 🛠 Tech Stack:
+Proficient in reactJS, nodeJS, Pulumi, Terraform, Hyperledger Besu, and Kubernetes.
+
+#### 🌐 Experience:
+Once donned the developer's hat during internships at convergence.tech and northernblock.ca.
+
+#### 💡 Current Endeavors:
+Immersed in SSI/Verifiable Credential, Sovrin (Hyperledger Indy), and Aries Cloud Agent-Py.
+
+#### 🤝 Collaborations & Opportunities:
+Eager to collaborate on projects centered around SSI/VC.
+Intrigued by the confluence of Aviation and Blockchain.
+Open to roles encompassing DevOps, full-stack development, and AWS cloud architecture, always with a cybersecurity perspective.
+If you have initiatives that can benefit from my coding prowess, cloud setup expertise, or any other IT challenges you believe I can address, let's connect!
+
+#### 🔗 Connect:
+
+https://ca.linkedin.com/in/nas-til-3526201a  
+📧 nas.til@tutamail.com
 
 <!--
 **Nas2020/Nas2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
